@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I’m Tayyab :wave:
+- 🔭 I'm a Senior Software Engineer working at product based company, currently working on gaming console :video_game:
+- :rocket: I’m interested in building amazing product AI/ML
+- 🌱 I’m currently learning AI,ML,NLP
+- 😄 Pronouns: He/Him
+- ⚡ A quote I believe in :
+>Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. ― Henry Ford
 
-<!--
-**tayyabjsr13/tayyabjsr13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+Python :snake: | AI/ML :computer: | NLP :boat: | Product :rocket: | Jenkins :hourglass: | Docker :ship:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Achievements
+- Received best performance award (2016)
+- Awarded “Hall of Fame” for delivering extraordinary technical skills (2017)
